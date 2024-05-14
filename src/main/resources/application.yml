@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: "jdbc:mysql://43.201.37.133:3306/DB202112304"
     username: user202112304
-    password: !mynameis202112304
+    password: "!mynameis202112304"
   jpa:
     database: mysql
     hibernate:
